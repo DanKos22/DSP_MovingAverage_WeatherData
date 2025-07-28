@@ -1,0 +1,1 @@
+This repository contains a Python script that loads historical temperature data from Mace Head (Ireland) and visualizes it. It also applies a moving average filter to smooth the temperature readings and compares the original and filtered data.
